@@ -1,0 +1,7 @@
+<resources>
+    <string name="welcome_message">Enter IP to Begin</string>
+    <string name="button_start">IP Info</string>
+    <string name="logo_open_port">Open Port</string>
+    <string name="ip_address">IP Address</string>
+    <string name="buttonn_port_scan">Scan Ports</string>
+</resources>
