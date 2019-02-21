@@ -1,4 +1,4 @@
-# OpenPort
+# OpenPort  ---- STILL A WORK IN PROGRESS ----
 An Android port scanning app 
 
 OpenPort is my first project for building an Android app. I took a data assurance class recently and was interested in scanning ports
